@@ -1,4 +1,4 @@
-## facemash website from "the social network"
+## facemash website from "The Social Network - Movie 2010"
 
 #### rating algorithm:
 * http://en.wikipedia.org/wiki/Elo_rating_system#Mathematical_details
